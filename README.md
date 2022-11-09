@@ -1,2 +1,2 @@
-# a.Qu.educ.ph
+# aQueduc.ph
 OneQuantum PH's Quantum Education Initiative
